@@ -1,6 +1,6 @@
 <h1 align="left">Hi there, I'm <a href="" target="_blank">Akram</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<p>I'm a Frontend Developer and UX/UI designer</p>
+<p>I'm a Frontend Developer</p>
 <h3 align="left">My skills</h3>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
